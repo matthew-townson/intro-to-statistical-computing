@@ -1,0 +1,3 @@
+# Introduction to Statistical Computing files
+This repository contains the data, code and exported images for a lecture about statistical computing.  
+Included data is the [Edexcel A-Level Large Dataset](https://qualifications.pearson.com/en/qualifications/edexcel-a-levels/mathematics-2017.coursematerials.html#filterQuery=category:Pearson-UK:Category%2FSpecification-and-sample-assessments) and [NYC Uber Pickup Data May-July 2014](https://github.com/fivethirtyeight/uber-tlc-foil-response)
