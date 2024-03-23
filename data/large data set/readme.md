@@ -1,7 +1,6 @@
 # Edexcel "Large" Data Set
 
-Here is the Edexcel Large Data Set, which contains weather data from various regions from May-October 1987, and May-October 2015 in csv format. [^1]  
-Data is from May-Oct 1987.  
+Here is the Edexcel Large Data Set, which contains weather data from various regions from May-October 1987, and May-October 2015 in csv format. [^1]   
 
 I have also created a separate csv file that contains the attributes of the locations from which data was sampled. [^2]  
 
