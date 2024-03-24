@@ -1,8 +1,9 @@
 # This file takes elements from https://github.com/matthew-townson/104-group-project
-# Creates a scatterplot of where pickups happened which shows geography of NYC
+# Creates a scatterplot of where pickups happened, showing geography of NYC
 
-# Install required packages
-install.packages('ggplot2')
+# Initialise libraries
+source("./src/init.R")
+init()
 
 # Load packages
 library(ggplot2)
