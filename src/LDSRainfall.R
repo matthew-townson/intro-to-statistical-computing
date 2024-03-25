@@ -25,7 +25,7 @@ ggplot(frequencyDataFrame87, aes(x = Value, y = Freq)) +
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust=1))
 ggsave("./exported/LDS/HeathrowRainfall/Rainfall1987.png", width = 16, height = 9, device="png", dpi=1600)
 
-#Doing same for camborne 2015
+#Doing same for heathrow 2015
 freqTable15 <- table(heathrow2015$Daily.Total.Rainfall..0900.0900...mm.)
 
 frequencyDataFrame15 <- as.data.frame(freqTable15)
