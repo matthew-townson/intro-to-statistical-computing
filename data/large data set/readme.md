@@ -16,6 +16,6 @@ Date,Daily Mean Temperature (0900-0900) (°C),Daily Total Rainfall (0900-0900) (
 06/05/1987,11.9,0,n/a,n/a,n/a,n/a,94,4,1100,1032,320,NW,290,WNW
 ```
 
-[^1]: you don't know how annoying it was to convert the data from an excel sheet to csv, there's so much random nonsense that is in the data pages that shouldn't - atomic data like latitude and longitude of the location that the data is from, and repeated data that should be put in an "info" page - like how `tr`
+[^1]: you don't know how annoying it was to convert the data from an excel sheet to csv, there's so much random nonsense that is in the data pages that shouldn't - atomic data like latitude and longitude of the location that the data is from, and repeated data that should be put in an "info" page - like how `tr` means trace
 
 [^2]: ok this is ridiculous, I'm no geographical expert, but last time I checked *colons* aren't a valid delimiter for latitude and longitude. Maybe these are replacements for ° and ', but that's dumb. Instead of using the frankly idiotic notation of `50:22N, 05:33W`, I've found the coordinates of these locations as DD coordinates - the normal sort that people ususally use. Sources for coordinate data: Wikipedia.
