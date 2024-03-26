@@ -9,5 +9,5 @@ pdf <- dnorm(x, mean = 0, sd = 1)
 # plot
 png("./exported/distribution/normalexample.png", width = 1920, height = 1080)
 plot(x, pdf, type = "l", col = "blue", main = "Standard Normal",
-     xlab = "x", ylab = "p")
+     xlab = "n", ylab = "p")
 dev.off()
