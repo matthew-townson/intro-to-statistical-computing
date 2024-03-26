@@ -8,4 +8,4 @@ pdf <- dnorm(x, mean = 0, sd = 1)
 
 # plot
 plot(x, pdf, type = "l", col = "blue", main = "Standard Normal",
-     xlab = "n", ylab = "p")
+     xlab = "x", ylab = "p")
