@@ -19,5 +19,5 @@ hourHits <- table(nydata$Hour)
 
 # Plot what times are common
 png("./exported/nyuber/timeplot.png", width = 1920, height = 1080)
-    barplot(hourHits, main = "Uber Pickup Times", xlab = "Time (Hour)", ylab = "Frequency", col = "green", border = "black")
+barplot(hourHits, main = "Uber Pickup Times", xlab = "Time (Hour)", ylab = "Frequency", col = "green", border = "black")
 dev.off()
